@@ -1,4 +1,1 @@
-# React Admin Dashboard
-
-Completed React Admin Dashboard Repo
-
+#Admin Dash Need to Adjust
